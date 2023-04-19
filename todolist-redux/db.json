@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy groceries",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Do laundry",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Clean the house",
+      "completed": true
+    },
+    {
+      "title": "asfcsdcsdcv",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
